@@ -1,5 +1,5 @@
 ############### This is Python Program ##############
-#Python program to convert from mile to kilometer
+#Python program to convert mile to kilometer
 
 from tkinter import *
 
